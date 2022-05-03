@@ -24,7 +24,7 @@ Please cite our paper if you use this dataset in your work:
  title={Symmetric Binary Tree Based Co-occurrence Texture Pattern Mining for Fine-grained Plant Leaf Image Retrieval},  
  author={Chen, Xin and Wang, Bin and Gao, Yongsheng},   
  journal={Pattern Recognition},   
- volume = {},   
+ volume = { },   
  page = { - },    
  year={2022},    
  doi={https://doi.org/10.1016/j.patcog.2022.108769}   
