@@ -1,2 +1,2 @@
-# Symmetric-Binary-Tree-SBT
+# Symmetric Binary Tree (SBT)
 Peanut Leaf Dataset - PeanCultivar100
