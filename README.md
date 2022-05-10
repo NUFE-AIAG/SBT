@@ -27,5 +27,5 @@ Please cite our paper if you use this dataset in your work:
  volume = {129},   
  page = {1-14},    
  year={2022},    
- doi={https://doi.org/10.1016/j.patcog.2022.108769}   
+ doi={ https://doi.org/10.1016/j.patcog.2022.108769 }   
 }   
