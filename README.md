@@ -3,7 +3,7 @@ Peanut Leaf Dataset - PeanCultivar100
 ## Download  
 Dataset can be download in ......(Upcoming)    
 
-NOTE: The dataset is publicly available for non-commercial use. Please refer to Chen, Xin, Bin Wang, and Yongsheng Gao. "Symmetric Binary Tree Based Co-occurrence Texture Pattern Mining for Fine-grained Plant Leaf Image Retrieval." Pattern Recognition (2022): 108769 if you use this dataset in your publication.
+NOTE: The dataset is publicly available for non-commercial use. Please refer to Xin Chen, Bin Wang, and Yongsheng Gao. "Symmetric Binary Tree Based Co-occurrence Texture Pattern Mining for Fine-grained Plant Leaf Image Retrieval." Pattern Recognition (2022): 108769 if you use this dataset in your publication.
 
 ## Details  
 We collect 500 leaves of 100 peanut cultivars with 5 sample per cultivar to build a peanut leaf image dataset, named PeanCultivar100. All the peanut leaves are randomly collected from the upper part of different plants.  
