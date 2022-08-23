@@ -8,13 +8,6 @@ NOTE: The dataset is publicly available for non-commercial use. Please refer to 
 ## Details  
 We collect 500 leaves of 100 peanut cultivars with 5 sample per cultivar to build a peanut leaf image dataset, named PeanCultivar100. All the peanut leaves are randomly collected from the upper part of different plants.  
 
-Naming rules for leaf images of PeanCultivar100:  
-
-Cultivar Index...... 
-
-For example:  
-
-For a leaf image named by “...”, its details are: the index of its cultivar is .......  
 
 ## Citation
 
